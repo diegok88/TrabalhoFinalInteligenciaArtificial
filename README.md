@@ -22,3 +22,6 @@ O presente trabalho final de Inteligencia Artificial contempla os seguintes arqu
 
 O objeto do trabalho foi implementar modelos de Machine Learning, no dataset de registros da Coluna Vertebral, destacando o codigo da implementação dos modelos, o artigo que
 especifica as metodologias usadas e os resultados e por fim a apresentação de toda atividade executada.
+
+**Acadêmicos** 
+Diego Davi Kotz, Igor Rosa da Silva, Davi Gabriel Pereira Fiori, João Pedro Heimovski Neves
